@@ -12,17 +12,17 @@ class HomeScreen extends StatelessWidget {
   final List<String> _listFireItems = [
     'Authentication',
     'Database',
-    'Backend Actions',
-    'Machine Learning',
-    'Other utilities',
+    //'Backend Actions',
+    //'Machine Learning',
+    //'Other utilities',
   ];
 
   final List<String> _listFireIcons = [
     FireAssets.fireAuthentication,
     FireAssets.fireDatabase,
-    FireAssets.fireBackend,
-    FireAssets.fireMachineLearning,
-    FireAssets.fireOtherUtilities,
+    //FireAssets.fireBackend,
+    //FireAssets.fireMachineLearning,
+    //FireAssets.fireOtherUtilities,
   ];
 
   final List<Widget?> _listFeatureScreens = [
